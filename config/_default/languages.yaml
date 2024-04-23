@@ -6,17 +6,29 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: 知的ネットワーキング研究グループ
+  params:
+    description: 大阪公立大学 戸出研究室のホームページ
+  menu:
+    main:
+    - name: 戸出研究室について
+      url: about
+      weight: 10
+    - name: メンバー
+      url: people
+      weight: 20
+    - name: プロジェクト
+      url: projects
+      weight: 30
+    - name: 研究成果
+      url: achievements
+      weight: 40
+    - name: 問い合わせ
+      url: contact
+      weight: 50
