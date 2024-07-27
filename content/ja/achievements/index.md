@@ -24,11 +24,20 @@ share: false
 
 <a name="2024"></a>
 ### <u>2024</u> [(Back to List of Years)](#list-of-years)
+#### <u>Awards</u>
+* 近藤大嗣, ''優秀プレゼンテーション賞,'' DICOMO 2024 シンポジウム.
+
 #### <u>International Journal Papers</u>
-* D. Kondo, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+* D. Kondo, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
+
+* K. Kubota, Y. Tanigawa, Y. Hirota, and H. Tode, ''Crosstalk-Aware Resource Allocation Based on Optical Path Adjacency and Crosstalk Budget for Space Division Multiplexing Elastic Optical Networks,'' *IEICE Transactions on Communications*, vol. E107-B, no. 1, pp. 27--38, Jan. 2024.
+<br><br>
 
 #### <u>International Conference Papers</u>
-* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. IEEE ICNC 2024*, Feb. 2024.
+* K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
+<br><br>
+
+* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059-1064, Feb. 2024.
 <br><br>
 
 * H. Yamakata, Y. Tanigawa, and H. Tode, ''Selective OFDMA Transmission Method Based on Downlink Communication Quality Requirements in IEEE 802.11ax Wireless LANs,'' in *Proc. 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)*, pp. 851--856, 2024.
@@ -43,6 +52,12 @@ share: false
 * Y. Onogawa, Y. Tanigawa, H. Tode, ''Bundling Method of Periodically Generated Packets for Collision-Free Transmission by Uplink OFDMA in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, 2024.
 
 #### <u>国内研究会</u>
+* 山方颯人, 谷川陽祐, 戸出英樹, ''［奨励講演］IEEE 802.11ax無線LANにおける端末局の通信品質要求を考慮した上下OFDMA伝送法,'' 信学技報, vol. 124, no. 106, NS2024-55, pp. 72--78, 2024年7月.
+<br><br>
+
+* 近藤大嗣, 澁谷遊野, 山口利恵, 石原知洋, 関谷勇司, 中田登志之, 浅見徹, ''Googleによるメール送信者のガイドライン設定が日本国内のメールセキュリティに与える影響の調査,'' DICOMO 2024 シンポジウム, 2024年6月.
+<br><br>
+
 * 川口瑚大郎, 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''空間分割多重型エラスティック光網におけるコア間クロストークを考慮した静的な変調方式割当および優先探索コアの選択,'' 信学技報, vol. 123, no. 442, PN2023-88, pp. 102--106, 2024年3月.
 <br><br>
 
