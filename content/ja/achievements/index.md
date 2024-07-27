@@ -29,9 +29,9 @@ share: false
 
 #### <u>International Journal Papers</u>
 * D. Kondo, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
+<br><br>
 
 * K. Kubota, Y. Tanigawa, Y. Hirota, and H. Tode, ''Crosstalk-Aware Resource Allocation Based on Optical Path Adjacency and Crosstalk Budget for Space Division Multiplexing Elastic Optical Networks,'' *IEICE Transactions on Communications*, vol. E107-B, no. 1, pp. 27--38, Jan. 2024.
-<br><br>
 
 #### <u>International Conference Papers</u>
 * K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
