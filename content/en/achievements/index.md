@@ -37,6 +37,9 @@ share: false
 * K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
 <br><br>
 
+* K. Kawaguchi, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Proactive Modulation Format Allocation Method with Selective Downgrading to Enhance Inter-core Crosstalk Tolerance in SDM-EONs,'' in *Proc. IEEE 15th International Conference on Network of the Future (NoF2024)*, 2024. (Accepted)
+<br><br>
+
 * H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059-1064, Feb. 2024.
 <br><br>
 
@@ -50,6 +53,9 @@ share: false
 <br><br>
 
 * Y. Onogawa, Y. Tanigawa, H. Tode, ''Bundling Method of Periodically Generated Packets for Collision-Free Transmission by Uplink OFDMA in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, 2024.
+
+#### <u>Keynote Speech</u>
+* H. Tode, ''Capabilities of Time-Gating Controls for Time Critical Applications: Protocols for All Optical Network Transport and Wireless LAN Access,'' in *IEEE ICCE-TW 2024*, Jul. 2024.
 
 #### <u>国内研究会</u>
 * 山方颯人, 谷川陽祐, 戸出英樹, ''［奨励講演］IEEE 802.11ax無線LANにおける端末局の通信品質要求を考慮した上下OFDMA伝送法,'' 信学技報, vol. 124, no. 106, NS2024-55, pp. 72--78, 2024年7月.
