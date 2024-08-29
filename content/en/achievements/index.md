@@ -34,6 +34,9 @@ share: false
 * K. Kubota, Y. Tanigawa, Y. Hirota, and H. Tode, ''Crosstalk-Aware Resource Allocation Based on Optical Path Adjacency and Crosstalk Budget for Space Division Multiplexing Elastic Optical Networks,'' *IEICE Transactions on Communications*, vol. E107-B, no. 1, pp. 27--38, Jan. 2024.
 
 #### <u>International Conference Papers</u>
+* K. Yagi, K. Isobe, D. Kondo, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. the 20th International Conference on Network and Service Management (CNSM)*, 2024. (Accepted)
+<br><br>
+
 * K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
 <br><br>
 
