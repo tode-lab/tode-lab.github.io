@@ -5,6 +5,7 @@ share: false
 
 <a name="list-of-years"></a>
 ### <u>List of Years</u>
+[2025](#2025),
 [2024](#2024),
 [2023](#2023),
 [2022](#2022),
@@ -22,6 +23,39 @@ share: false
 [2010](#2010),
 [2009](#2009)
 
+<a name="2025"></a>
+### <u>2025</u> [(Back to List of Years)](#list-of-years)
+#### <u>International Journal Papers</u>
+* H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, Dec. 2025 (Accepted).
+ 
+* Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
+ 
+* M. Ono, Y. Hashimoto, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Data Transfer Method Combining Erasure Coding and Cumulative Decoding-status Feedback: Demonstration on an Optical Packet-Switching Network Testbed,'' *Journal of Optical Communications and Networking*, vol. 17, no. 5, pp. 412--424, May 2025.
+ 
+* R. Yeu, Y. Tanigawa, A. Hasegawa, and H. Tode, ''Transmission Time Scheduling for Stations with Different Packet Generation Periods in Smart Factory Environment: System Implementation and Experimental Evaluation,'' *IEICE Transactions on Communications*, vol. E108-B, no. 4, pp. 465--476, Apr. 2025.
+<br><br>
+
+#### <u>International Conference Papers</u>
+* T. Akai, Y. Tanigawa, Y. Hirota, and H. Tode, ''Timing and Interval Control for Data Transmission Combining Erasure Coding and Recovery Status Feedback,'' in *Proc. 2025 30th OptoElectronics and Communications Conference (OECC) and 2025 International Conference on Photonics in Switching and Computing (PSC)*, pp. 1--4, Jul. 2025.
+<br><br>
+ 
+* T. Hirai, Y. Tanigawa, Y. Hirota, and H. Tode, ''Delayed TCP ACK Transmission Method to Achieve Target RTT in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, pp. 1--6, May 2025.
+<br><br>
+ 
+* K. Nishio, Y. Tanigawa, Y. Hirota, and H. Tode, ''Quantitative Performance Evaluation of Microburst Packet Transmission Control for Transport Layer Protocols in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, pp. 1--5, May 2025.
+<br><br>
+ 
+* K. Nishio, Y. Tanigawa, Y. Hirota, and H. Tode, ''Timer-Based Transmission Control Providing Burstiness Mitigation and Enhanced Throughput for Transport Layer Protocols in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, Jan. 2025.
+<br><br>
+ 
+* K. Shibata, Y. Tanigawa, Y. Hirota, and H. Tode, ''Machine Learning-based Core Assignment in TCP Transmission for SDM-OPS Network,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
+<br><br>
+ 
+* T. Saijo, Y. Tanigawa, and H. Tode, ''Investigation of Prioritized Channel Access Control to Improve Frame Collisions for TCP Flows in Wireless LANs,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, Jan. 2025.
+<br><br>
+
+* A. Fujimoto, M. Senso, and H. Tode, ''A Combined Method of Overhearing-Based Multicast and BitTorrent with Cooperative Group for Local Content Distribution within Wireless LAN,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025. 
+
 <a name="2024"></a>
 ### <u>2024</u> [(Back to List of Years)](#list-of-years)
 #### <u>Awards</u>
@@ -37,13 +71,13 @@ share: false
 * K. Yagi, K. Isobe, D. Kondo, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. the 20th International Conference on Network and Service Management (CNSM)*, 2024. (Accepted)
 <br><br>
 
-* K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
+* K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, pp. 1--10, Oct. 2024.
 <br><br>
 
-* K. Kawaguchi, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Proactive Modulation Format Allocation Method with Selective Downgrading to Enhance Inter-core Crosstalk Tolerance in SDM-EONs,'' in *Proc. IEEE 15th International Conference on Network of the Future (NoF2024)*, 2024. (Accepted)
+* K. Kawaguchi, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Proactive Modulation Format Allocation Method with Selective Downgrading to Enhance Inter-core Crosstalk Tolerance in SDM-EONs,'' in *Proc. IEEE 15th International Conference on Network of the Future (NoF2024)*, pp. 159--163, Oct. 2024.
 <br><br>
 
-* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059-1064, Feb. 2024.
+* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059--1064, Feb. 2024.
 <br><br>
 
 * H. Yamakata, Y. Tanigawa, and H. Tode, ''Selective OFDMA Transmission Method Based on Downlink Communication Quality Requirements in IEEE 802.11ax Wireless LANs,'' in *Proc. 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)*, pp. 851--856, 2024.
