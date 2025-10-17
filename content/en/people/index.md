@@ -27,6 +27,7 @@ sections:
         - Yuya Seki (D3)
         - Yuya Onogawa (D2)
         - Sora Akagawa (D1)
+        - Proietto Stallone Jonathan (D1)
   - block: markdown
     content:
       title: Master Students
