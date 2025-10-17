@@ -5,6 +5,7 @@ share: false
 
 <a name="list-of-years"></a>
 ### <u>List of Years</u>
+[2025](#2025),
 [2024](#2024),
 [2023](#2023),
 [2022](#2022),
@@ -22,45 +23,156 @@ share: false
 [2010](#2010),
 [2009](#2009)
 
+<a name="2025"></a>
+### <u>2025</u> [(Back to List of Years)](#list-of-years)
+#### <u>Awards</u>
+* 関勇弥, ''通信ソサイエティ若手研究奨励賞''
+* 川口瑚大郎, ''フォトニックネットワーク研究会 PN研学生奨励賞''
+* 関勇弥, ''フォトニックネットワーク研究会 PN若手研究賞''
+* K. Nishio, ''Best Session Presentation Award,'' IEEE ICCE, 2025.
+* H. Tode, ''The 2024 IEEE Consumer Technology Society Appreciation Award,'' For serving as 2025 ICCE General Chair.
+
+#### <u>International Journal Papers</u>
+* H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, Dec. 2025 (Accepted).
+<br><br>
+
+* Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
+<br><br>
+
+* M. Ono, Y. Hashimoto, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Data Transfer Method Combining Erasure Coding and Cumulative Decoding-status Feedback: Demonstration on an Optical Packet-Switching Network Testbed,'' *Journal of Optical Communications and Networking*, vol. 17, no. 5, pp. 412--424, May 2025.
+<br><br>
+
+* R. Yeu, Y. Tanigawa, A. Hasegawa, and H. Tode, ''Transmission Time Scheduling for Stations with Different Packet Generation Periods in Smart Factory Environment: System Implementation and Experimental Evaluation,'' *IEICE Transactions on Communications*, vol. E108-B, no. 4, pp. 465--476, Apr. 2025.
+
+#### <u>International Conference Papers</u>
+* T. Angeli, F. Beck, D. Kondo, I. Chrisment, H. Tode, and H. D. Schotten, ''Demo: SweetsPot: A Distributed Honeypot Federation Platform,'' in *Proc. 2025 IEEE 50th Conference on Local Computer Networks (LCN)*, pp. 1--4, Oct. 2025.
+<br><br>
+
+* T. Akai, Y. Tanigawa, Y. Hirota, and H. Tode, ''Timing and Interval Control for Data Transmission Combining Erasure Coding and Recovery Status Feedback,'' in *Proc. 2025 30th OptoElectronics and Communications Conference (OECC) and 2025 International Conference on Photonics in Switching and Computing (PSC)*, pp. 1--4, Jul. 2025.
+<br><br>
+ 
+* T. Hirai, Y. Tanigawa, Y. Hirota, and H. Tode, ''Delayed TCP ACK Transmission Method to Achieve Target RTT in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, pp. 1--6, May 2025.
+<br><br>
+ 
+* K. Nishio, Y. Tanigawa, Y. Hirota, and H. Tode, ''Quantitative Performance Evaluation of Microburst Packet Transmission Control for Transport Layer Protocols in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)*, pp. 1--5, May 2025.
+<br><br>
+
+* K. Nishio, Y. Tanigawa, Y. Hirota, and H. Tode, ''Timer-Based Transmission Control Providing Burstiness Mitigation and Enhanced Throughput for Transport Layer Protocols in Optical Packet Switching Networks,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, Jan. 2025.
+<br><br>
+ 
+* K. Shibata, Y. Tanigawa, Y. Hirota, and H. Tode, ''Machine Learning-based Core Assignment in TCP Transmission for SDM-OPS Network,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
+<br><br>
+ 
+* T. Saijo, Y. Tanigawa, and H. Tode, ''Investigation of Prioritized Channel Access Control to Improve Frame Collisions for TCP Flows in Wireless LANs,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, Jan. 2025.
+<br><br>
+
+* A. Fujimoto, M. Senso, and H. Tode, ''A Combined Method of Overhearing-Based Multicast and BitTorrent with Cooperative Group for Local Content Distribution within Wireless LAN,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
+
+#### <u>国内研究会</u>
+* 平松大夢, 藤本章宏, 戸出英樹, ''大規模なメタバース運用における仮想空間上の近傍ユーザグループ構成法およびグループ内マップデータ共有法,'' 	信学技報, vol. 125, no. 172, NS2025-74, pp. 13--17, 2025年9月.
+<br><br>
+
+* 宮武慶一朗, 近藤大嗣, 戸出英樹, ''権威DNSサーバにおけるDNSキャッシュポイズニング対抗策普及状況の調査,'' 信学技報, vol. 125, no. 58, NS2025-45, pp. 16--22, 2025年6月.
+<br><br>
+
+* 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''マルチスパン対向伝搬システムを用いた光通信網上の棄却率を最小化する弱結合型マルチコアファイバのコアピッチ下界の調査,'' 信学技報, vol. 125, no. 59, OCS2025-16, pp. 26--31, 2025年6月.
+<br><br>
+
+* 副田海斗, 谷川陽祐, 近藤大嗣, 戸出英樹, ''DTN環境における指定された属性をもつ特定個数のノードからの効率的な応答取得法,'' 信学技報, vol. 125, no. 24, NS2025-34, pp. 106--112, 2025年5月.
+<br><br>
+
+* 坂本向希, 谷川陽祐, 戸出英樹, ''IEEE 802.11ax無線LANにおける通信品質要求とTCP特性を考慮した下りOFDMA伝送法,'' 信学技報, vol. 125, no. 24, NS2025-36, pp. 119--124, 2025年5月.
+<br><br>
+
+* 松本侑樹, 藤本章宏, 戸出英樹, ''Bloom Filterを用いたプライバシー保護機構を有するP2P型見守り支援システム,'' 信学技報, vol. 124, no. 419, NS2024-208, pp. 77--82, 2025年3月.
+<br><br>
+
+* 栗田基生, 藤本章宏, 戸出英樹, ''データ変化に対してロバストなRangeKey Skip Graphにおけるゲートウェイノードを用いたホップ数削減手法,'' 信学技報, vol. 124, no. 419, NS2024-248, pp. 310--315, 2025年3月.
+<br><br>
+
+* 赤川宙, Nicolas Schnepf, 近藤大嗣, 戸出英樹, ''Multi-access Edge Computing環境におけるEnd-to-End遅延保証のためのMEC hostと通信経路の割り当て法,'' 信学技報, vol. 124, no. 419, NS2024-261, pp. 384--389, 2025年3月.
+<br><br>
+
+* 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''［依頼講演］空間分割多重型エラスティック光網へのマルチコアファイバ適用に向けた最密なコア配置およびコアピッチの決定フレームワーク,'' 信学技報, vol. 124, no. 395, PN2024-67, pp. 43--48, 2025年3月.
+<br><br>
+
+* 川口瑚大郎, 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''［依頼講演］空間分割多重型エラスティック光網におけるコア間クロストーク耐性を向上させるプロアクティブな変調方式割当,'' 信学技報, vol. 124, no. 395, PN2024-69, pp. 55--59, 2025年3月.
+<br><br>
+
+* 平井利晃, 谷川陽祐, 廣田悠介, 戸出英樹, ''光パケット交換網における目標RTTに基づいたTCP ACKの遅延送信手法,'' 信学技報, vol. 124, no. 395, PN2024-83, pp. 139--144, 2025年3月.
+<br><br>
+
+* 西尾彗志, 谷川陽祐, 廣田悠介, 戸出英樹, ''光パケット交換網における交換機内パケット衝突時の廃棄優先度制御,'' 信学技報, vol. 124, no. 395, PN2024-84, pp. 145--149, 2025年3月.
+<br><br>
+
+* 柴田海翔, 谷川陽祐, 廣田悠介, 戸出英樹, ''SDM-OPS網上のTCP伝送における機械学習を用いた光ファイバ内コアへのパケット割当法,'' 信学技報, vol. 124, no. 395, PN2024-85, pp. 150--154, 2025年3月.
+<br><br>
+
+* 赤井智哉, 谷川陽祐, 廣田悠介, 戸出英樹, ''Erasure-codingと復元応答を組み合わせたデータ転送における送信タイミングおよび送信間隔調整制御,'' 電子情報通信学会フォトニックネットワーク研究会学生ワークショップ, 2025年3月.
+
+#### <u>総合大会等</u>
+* 副田海斗, 近藤大嗣, 谷川陽祐, 戸出英樹, ''DTN環境における孤立ノードを考慮したデータ配信方法の検討,'' 電子情報通信学会総合大会, B-6-57, 2025年3月.
+<br><br>
+
+* 坂本向希, 谷川陽祐, 戸出英樹, ''IEEE 802.11ax無線LANにおける端末局の通信品質要求とTCPを考慮した下りOFDMA伝送法の検討,'' 電子情報通信学会総合大会, B-6-90, 2025年3月.
+<br><br>
+ 
+* 平井利晃, 谷川陽祐, 廣田悠介, 戸出英樹, ''光パケット交換網における目標 RTT に基づいた TCP ACK の遅延送信手法の検討,'' 電子情報通信学会総合大会, B-12-11, 2025年3月.
+<br><br>
+
+* 赤井智哉, 谷川陽祐, 廣田悠介, 戸出英樹, ''Erasure-codingと復元応答を組み合わせたデータ転送における
+送信タイミングおよび送信間隔調整制御の検討,'' 電子情報通信学会総合大会, B-12-12, 2025年3月.
+
 <a name="2024"></a>
 ### <u>2024</u> [(Back to List of Years)](#list-of-years)
 #### <u>Awards</u>
 * 近藤大嗣, ''優秀プレゼンテーション賞,'' DICOMO 2024 シンポジウム.
+* 関勇弥, ''光通信システム研究会 奨励賞''
+* 山方颯人, ''ネットワークシステム研究会 若手研究奨励賞''
 
 #### <u>International Journal Papers</u>
+* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Layout design of densest weakly coupled multi-core fibers to minimize the network blocking rate,'' *Journal of Optical Communications and Networking*, vol. 16, no. 12, pp. H40--H52, Dec. 2024.
+<br><br>
+
 * D. Kondo, T. Ansquer, Y. Tanigawa, and H. Tode, ''Resource Breadcrumbs: Discovering Edge Computing Resources Over Named Data Networking,'' *IEEE Transactions on Network and Service Management*, vol. 21, no. 3, pp. 3305--3316, Jun. 2024.
 <br><br>
 
 * K. Kubota, Y. Tanigawa, Y. Hirota, and H. Tode, ''Crosstalk-Aware Resource Allocation Based on Optical Path Adjacency and Crosstalk Budget for Space Division Multiplexing Elastic Optical Networks,'' *IEICE Transactions on Communications*, vol. E107-B, no. 1, pp. 27--38, Jan. 2024.
 
 #### <u>International Conference Papers</u>
-* K. Yagi, K. Isobe, D. Kondo, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. the 20th International Conference on Network and Service Management (CNSM)*, 2024. (Accepted)
+* K. Yagi, K. Isobe, D. Kondo, and H. Tode, ''Impact of DANE on Webpage Load Time,'' in *Proc. the 20th International Conference on Network and Service Management (CNSM)*, pp. 1--9, Oct. 2024.
 <br><br>
 
-* K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, 2024. (Accepted)
+* K. Isobe, J. -P. Eisenbarth, D. Kondo, T. Cholez, and H. Tode, ''A Deeper Grasp of Handshake: A Thorough Analysis of Blockchain-based DNS Records,'' in *Proc. 2024 6th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, pp. 1--10, Oct. 2024.
 <br><br>
 
-* K. Kawaguchi, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Proactive Modulation Format Allocation Method with Selective Downgrading to Enhance Inter-core Crosstalk Tolerance in SDM-EONs,'' in *Proc. IEEE 15th International Conference on Network of the Future (NoF2024)*, 2024. (Accepted)
+* K. Kawaguchi, Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Proactive Modulation Format Allocation Method with Selective Downgrading to Enhance Inter-core Crosstalk Tolerance in SDM-EONs,'' in *Proc. IEEE 15th International Conference on Network of the Future (NoF2024)*, pp. 159--163, Oct. 2024.
 <br><br>
 
-* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059-1064, Feb. 2024.
+* H. Tode, Y. Tanigawa, R. Yeu, and A. Hasegawa, ''[Invited Paper] Time Gating Control Approaches for Time Critical Applications from Perspective of Wireless LANs and All Optical Networks,'' in *Proc. 2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 1059--1064, Feb. 2024.
 <br><br>
 
-* H. Yamakata, Y. Tanigawa, and H. Tode, ''Selective OFDMA Transmission Method Based on Downlink Communication Quality Requirements in IEEE 802.11ax Wireless LANs,'' in *Proc. 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)*, pp. 851--856, 2024.
+* H. Yamakata, Y. Tanigawa, and H. Tode, ''Selective OFDMA Transmission Method Based on Downlink Communication Quality Requirements in IEEE 802.11ax Wireless LANs,'' in *Proc. 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)*, pp. 851--856, Jan. 2024.
 <br><br>
 
-* R. Yeu, Y. Tanigawa, A. Hasegawa, H. Yokoyama, and H. Tode, ''Transmission Timing Scheduling Method for Station Groups with Different Packet Generation Periods in Smart Factory Environment,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--6, 2024.
+* R. Yeu, Y. Tanigawa, A. Hasegawa, H. Yokoyama, and H. Tode, ''Transmission Timing Scheduling Method for Station Groups with Different Packet Generation Periods in Smart Factory Environment,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--6, Jan. 2024.
 <br><br>
 
-* R. Matsuda, Y. Tanigawa, and H. Tode, ''Random-Access MAC Protocol Applying Maximum Frame Aggregation for Delay-Constrained Packet Transfer in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, 2024.
+* R. Matsuda, Y. Tanigawa, and H. Tode, ''Random-Access MAC Protocol Applying Maximum Frame Aggregation for Delay-Constrained Packet Transfer in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2024.
 <br><br>
 
-* Y. Onogawa, Y. Tanigawa, H. Tode, ''Bundling Method of Periodically Generated Packets for Collision-Free Transmission by Uplink OFDMA in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, 2024.
+* Y. Onogawa, Y. Tanigawa, H. Tode, ''Bundling Method of Periodically Generated Packets for Collision-Free Transmission by Uplink OFDMA in Wireless Sensor Networks,'' in *Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--5, Jan. 2024.
 
 #### <u>Keynote Speech</u>
 * H. Tode, ''Capabilities of Time-Gating Controls for Time Critical Applications: Protocols for All Optical Network Transport and Wireless LAN Access,'' in *IEEE ICCE-TW 2024*, Jul. 2024.
 
 #### <u>国内研究会</u>
+* 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''対向伝搬システムにおける弱結合型マルチコアファイバの最密なコア配置決定法,'' 信学技報, vol. 124, no. 264, PN2024-28, pp. 7--11, 2024年11月.
+<br><br>
+
+* 西条貴登, 谷川陽祐, 戸出英樹, ''［ポスター講演］無線LANにおけるTCPフロー伝送時のフレーム衝突改善を目的とした優先チャネルアクセス制御の検討, '' 信学技報, vol. 124, no. 197, NS2024-97, pp. 37--41, 2024年10月.
+<br><br>
+
 * 山方颯人, 谷川陽祐, 戸出英樹, ''［奨励講演］IEEE 802.11ax無線LANにおける端末局の通信品質要求を考慮した上下OFDMA伝送法,'' 信学技報, vol. 124, no. 106, NS2024-55, pp. 72--78, 2024年7月.
 <br><br>
 
