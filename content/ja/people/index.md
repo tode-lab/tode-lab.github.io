@@ -27,6 +27,7 @@ sections:
         - 関 勇弥（D3）
         - 小野川 裕也（D2）
         - 赤川 宙（D1）
+        - プロイエット スタローン ジョナタン (D1)
   - block: markdown
     content:
       title: 博士前期課程学生
