@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Visiting Associate Professor
 
 # Organizations/Affiliations
 #organizations:
@@ -33,8 +33,8 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in computer science
-      institution: The University of Lorraine, Nancy, France
+    - course: Doctorat en informatique
+      institution: Université de Lorraine, Nancy, France
       year: 2018
     - course: M.A.S. in interdisciplinary information studies
       institution: The University of Tokyo, Tokyo, Japan
@@ -75,4 +75,4 @@ user_groups:
   - 教員
 ---
 
-Daishi Kondo received his BS degree in Engineering from Osaka University, Osaka, Japan, in 2013, his MAS degree in Interdisciplinary Information Studies from the University of Tokyo, Tokyo, Japan, in 2015, and a PhD degree in Computer Science from the University of Lorraine, LORIA (CNRS UMR 7503), Inria Nancy - Grand Est, Nancy, France, in 2018. From 2019 to 2022, he was an assistant professor at Osaka Prefecture University. Since 2022, he has been an assistant professor at Osaka Metropolitan University.
+Daishi Kondo received his BS degree in Engineering from Osaka University, Osaka, Japan, in 2013, his MAS degree in Interdisciplinary Information Studies from the University of Tokyo, Tokyo, Japan, in 2015, and a PhD degree in Computer Science from the University of Lorraine, LORIA (CNRS UMR 7503), Inria Nancy - Grand Est, Nancy, France, in 2018. He was an Assistant Professor at Osaka Prefecture University from 2019 until it merged with Osaka Metropolitan University in 2022. He then continued as an Assistant Professor at Osaka Metropolitan University until 2024 and became an Associate Professor at the same university from 2024 to 2025. Since 2025, he has been an Associate Professor at the University of Tokyo.
