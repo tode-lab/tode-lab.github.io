@@ -5,6 +5,7 @@ share: false
 
 <a name="list-of-years"></a>
 ### <u>List of Years</u>
+[2026](#2026),
 [2025](#2025),
 [2024](#2024),
 [2023](#2023),
@@ -23,6 +24,41 @@ share: false
 [2010](#2010),
 [2009](#2009)
 
+<a name="2026"></a>
+### <u>2026</u> [(Back to List of Years)](#list-of-years)
+#### <u>International Journal Papers</u>
+* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-Oriented Metric for Core Pitch Optimization in Bidirectional MultiCore Fiber Network,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5, (accepted).
+
+#### <u>International Conference Papers</u>
+* K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan, 2026.
+
+#### <u>国内研究会</u>
+* 大西勘太郎, 近藤大嗣, 戸出英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
+<br><br>
+
+* 平松大夢, 藤本章宏, 戸出英樹, ''メタバース空間上でのユーザ近傍性を利用したマップデータ共有法,'' 信学技報, vol. 125, no. 385, NS2025-227, pp. 37--42, 2026年3月.
+<br><br>
+
+* 川口瑚大郎, 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''空間分割多重型エラスティック光網における冗長率の選択に伴う周波数資源効率とコア間クロストーク耐性および伝送距離のトレードオフ分析,'' 信学技報, vol. 125, no. 372, PN2025-44, pp. 13--18, 2026年3月.
+<br><br>
+
+* 志村悠次郎, 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''光回線交換網の光パス設定における非線形信号劣化を考慮した伝送可能距離の理論的検討,'' 信学技報, vol. 125, no. 372, PN2025-63, pp. 106--111, 2026年3月.
+<br><br>
+
+* 御領園拓海, 谷川陽祐, 廣田悠介, 戸出英樹, ''光パケット交換網における経路差に応じたマルチパスTCPのパケット転送スケジューリング,'' 電子情報通信学会フォトニックネットワーク研究会学生ワークショップ, 2026年3月.
+<br><br>
+
+* 石澤堅三, 川口瑚大郎, 関勇弥, 谷川陽祐, 廣田悠介, 戸出英樹, ''空間分割多重型エラスティック光網における光パス伝送品質保証を目的としたコア間クロストークペナルティの影響評価－コア間クロストークペナルティ可変モデルの提案－,'' 電子情報通信学会フォトニックネットワーク研究会学生ワークショップ, 2026年3月.
+<br><br>
+
+* 坂本向希, 谷川陽祐, 戸出英樹, ''［奨励講演］IEEE 802.11ax無線LANの下りOFDMA伝送における通信品質要求とTCP特性を考慮した伝送フレーム決定規律の改良,'' 信学技報, vol. 125, no. 320, NS2025-201, pp. 54--61, 2026年1月.
+
+#### <u>総合大会等</u>
+* 南雄暉, 谷川陽祐, 戸出英樹, ''無線LANにおけるTCP BBRフローの伝送スループットを向上させるA-MPDU集約伝送法の検討,'' 電子情報通信学会総合大会, B-6-28, 2026年3月.
+<br><br>
+
+* 山本徹哉, 谷川陽祐, 戸出英樹, ''IEEE 802.11ah無線ネットワークにおける電波送信規制を考慮したTCPに基づくパケット伝送法の検討,'' 電子情報通信学会総合大会, B-6-29, 2026年3月.
+
 <a name="2025"></a>
 ### <u>2025</u> [(Back to List of Years)](#list-of-years)
 #### <u>Awards</u>
@@ -33,7 +69,7 @@ share: false
 * H. Tode, ''The 2024 IEEE Consumer Technology Society Appreciation Award,'' For serving as 2025 ICCE General Chair.
 
 #### <u>International Journal Papers</u>
-* H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, Dec. 2025 (Accepted).
+* H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, pp. 1430--1442, Dec. 2025.
 <br><br>
 
 * Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
@@ -69,6 +105,9 @@ share: false
 * A. Fujimoto, M. Senso, and H. Tode, ''A Combined Method of Overhearing-Based Multicast and BitTorrent with Cooperative Group for Local Content Distribution within Wireless LAN,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
 
 #### <u>国内研究会</u>
+* 西条貴登, 谷川陽祐, 戸出英樹, ''無線LANにおけるTarget Wake Time制御を考慮したTCP BBR帯域推定法の検討,'' 信学技報, vol. 125, no. 301, NS2025-169, pp. 96--101, 2025年12月.
+<br><br>
+
 * 平松大夢, 藤本章宏, 戸出英樹, ''大規模なメタバース運用における仮想空間上の近傍ユーザグループ構成法およびグループ内マップデータ共有法,'' 	信学技報, vol. 125, no. 172, NS2025-74, pp. 13--17, 2025年9月.
 <br><br>
 
@@ -120,8 +159,7 @@ share: false
 * 平井利晃, 谷川陽祐, 廣田悠介, 戸出英樹, ''光パケット交換網における目標 RTT に基づいた TCP ACK の遅延送信手法の検討,'' 電子情報通信学会総合大会, B-12-11, 2025年3月.
 <br><br>
 
-* 赤井智哉, 谷川陽祐, 廣田悠介, 戸出英樹, ''Erasure-codingと復元応答を組み合わせたデータ転送における
-送信タイミングおよび送信間隔調整制御の検討,'' 電子情報通信学会総合大会, B-12-12, 2025年3月.
+* 赤井智哉, 谷川陽祐, 廣田悠介, 戸出英樹, ''Erasure-codingと復元応答を組み合わせたデータ転送における送信タイミングおよび送信間隔調整制御の検討,'' 電子情報通信学会総合大会, B-12-12, 2025年3月.
 
 <a name="2024"></a>
 ### <u>2024</u> [(Back to List of Years)](#list-of-years)
