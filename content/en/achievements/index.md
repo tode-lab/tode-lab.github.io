@@ -27,10 +27,10 @@ share: false
 <a name="2026"></a>
 ### <u>2026</u> [(Back to List of Years)](#list-of-years)
 #### <u>International Journal Papers</u>
-* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-Oriented Metric for Core Pitch Optimization in Bidirectional MultiCore Fiber Network,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5, (accepted).
+* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-Oriented Metric for Core Pitch Optimization in Bidirectional MultiCore Fiber Network,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5 (accepted).
 
 #### <u>International Conference Papers</u>
-* K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan, 2026.
+* K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
 #### <u>国内研究会</u>
 * 大西勘太郎, 近藤大嗣, 戸出英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
