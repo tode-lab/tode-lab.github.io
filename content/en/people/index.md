@@ -23,40 +23,36 @@ sections:
     content:
       title: Doctoral Students
       text: |
-        - Naotake Ishikura (D3)
-        - Yuya Seki (D3)
-        - Yuya Onogawa (D2)
-        - Sora Akagawa (D1)
-        - Proietto Stallone Jonathan (D1)
+        - Yuya Onogawa (D3)
+        - Sora Akagawa (D2)
+        - Proietto Stallone Jonathan (D2)
   - block: markdown
     content:
       title: Master Students
       text: |
-        - Kotaro Kawaguchi (M2)
-        - Takato Saijo (M2)
-        - Keiichiro Miyatake (M2)
-        - Tomoya Akai (M1)
-        - Kantaro Onishi (M1)
-        - Koki Sakamoto (M1)
-        - Kaito Soeda (M1)
-        - Toshiaki Hirai (M1)
+        - Tomoya Akai (M2)
+        - Kantaro Onishi (M2)
+        - Koki Sakamoto (M2)
+        - Kaito Soeda (M2)
+        - Toshiaki Hirai (M2)
+        - Shaoyu Yang (M1)
+        - Kenzo Ishizawa (M1)
+        - Jiaqi Wu (M1)
+        - Ken Koshizawa (M1)
+        - Takumi Goryozono (M1)
+        - Yujiro Shimura (M1)
+        - Yuki Minami (M1)
+        - Tetsuya Yamamoto (M1)
   - block: markdown
     content:
       title: Bachelor Students
       text: |
-        - Kenzo Ishizawa (B4)
-        - Jiaqi Wu (B4)
+        - Akira Ishii (B4)
         - Risako Katayama (B4)
-        - Ken Koshizawa (B4)
-        - Takumi Goryozono (B4)
+        - Kengo Saito (B4)
+        - Naoyoshi Sakumoto (B4)
+        - Taiga Tanabe (B4)
         - Ryouma Nakayama (B4)
-        - Yuki Minami (B4)
-        - Tetsuya Yamamoto (B4)
-        - Akira Ishii (B3)
-        - Kengo Saito (B3)
-        - Naoyoshi Sakumoto (B3)
-        - Yujiro Shimura (B3)
-        - Taiga Tanabe (B3)
-        - Yuiki Makino (B3)
-        - Shion Mishima (B3)
+        - Yuiki Makino (B4)
+        - Shion Mishima (B4)
 ---
