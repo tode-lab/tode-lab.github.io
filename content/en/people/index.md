@@ -37,6 +37,7 @@ sections:
         - Toshiaki Hirai (M2)
         - Shaoyu Yang (M1)
         - Kenzo Ishizawa (M1)
+        - Ryo Irei (M1)
         - Jiaqi Wu (M1)
         - Ken Koshizawa (M1)
         - Takumi Goryozono (M1)
