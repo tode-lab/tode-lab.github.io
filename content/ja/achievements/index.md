@@ -288,7 +288,7 @@ share: false
 * H. Tode, K. Takemoto, and Y. Tanigawa, ''CSMA/CA-based Random Access Control Suitable for Delay-Constrained Packet Transfer in Smart Factory Environments,'' in *Proc. 2023 6th Conference on Cloud and Internet of Things (CIoT)*, pp. 190--194, 2023.
 <br><br>
 
-* M. Ono, Y. Hashimoto, Y. Tanigawa, Y. Hirota, and H. Tode, ''A Data Transfer Method Combining Erasure-coding with Cumulative Acknowledgment for Lossy Optical Packet Switching Networks,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 670--671, 2023.
+* M. Ono, Y. Seki, Y. Hashimoto, Y. Tanigawa, Y. Hirota, and H. Tode, ''A Data Transfer Method Combining Erasure-coding with Cumulative Acknowledgment for Lossy Optical Packet Switching Networks,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 670--671, 2023.
 <br><br>
 
 * T. Ueda, D. Kondo, Y. Tanigawa, and H. Tode, ''Computing Node Selection Method Based on Proactive Grasping of Computational Performance in End Cloud Environments,'' in *Proc. 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*, pp. 672--673, 2023.
