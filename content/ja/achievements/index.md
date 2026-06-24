@@ -27,10 +27,16 @@ share: false
 <a name="2026"></a>
 ### <u>2026</u> [(Back to List of Years)](#list-of-years)
 #### <u>International Journal Papers</u>
-* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-Oriented Metric for Core Pitch Optimization in Bidirectional MultiCore Fiber Network,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5 (accepted).
+* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-oriented metric for core pitch optimization in bidirectional multi-core fiber networks,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5, pp. 454--469, May 2026.
 
 #### <u>International Conference Papers</u>
+* N. Ishikura, D. Kondo, and H. Tode, ''Toward Detecting Stealthy DNS Tunneling Attacks: A Dataset Analysis Perspective,'' in *Proc. Network Traffic Measurement and Analysis Conference (TMA Conference 2026)*, Poster Session, 4 pages, Jun., 2026.
+<br><br>
+
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
+
+#### <u>Keynote Speech</u>
+* H. Tode, ''Unlocking Peer-to-Peer Potential through Smart Extensions of BitTorrent,'' *The 8th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2025)*, Oct. 2025.
 
 #### <u>国内研究会</u>
 * 大西勘太郎, 近藤大嗣, 戸出英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
@@ -70,6 +76,9 @@ share: false
 
 #### <u>International Journal Papers</u>
 * H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, pp. 1430--1442, Dec. 2025.
+<br><br>
+
+* A. Fujimoto, M. Kurita, and H. Tode, ''A Skip Graph-Based Resource Retrieval with Tunable Range Keys in Time-Variant Environments,'' in *Proc. 2025 30th Asia-Pacific Conference on Communications (APCC)*, Short Paper, pp.1--2, Nov. 2025. 
 <br><br>
 
 * Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
