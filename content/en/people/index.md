@@ -53,7 +53,6 @@ sections:
         - Kengo Saito (B4)
         - Naoyoshi Sakumoto (B4)
         - Taiga Tanabe (B4)
-        - Ryouma Nakayama (B4)
         - Yuiki Makino (B4)
         - Shion Mishima (B4)
 ---
