@@ -27,7 +27,7 @@ share: false
 <a name="2026"></a>
 ### <u>2026</u> [(Back to List of Years)](#list-of-years)
 #### <u>International Journal Papers</u>
-* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-Oriented Metric for Core Pitch Optimization in Bidirectional MultiCore Fiber Network,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5 (accepted).
+* Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-oriented metric for core pitch optimization in bidirectional multi-core fiber networks,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5, pp. 454--469, May 2026.
 
 #### <u>International Conference Papers</u>
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
@@ -72,6 +72,9 @@ share: false
 * H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, pp. 1430--1442, Dec. 2025.
 <br><br>
 
+* A. Fujimoto, M. Kurita, and H. Tode, ''A Skip Graph-Based Resource Retrieval with Tunable Range Keys in Time-Variant Environments,'' in *Proc. 2025 30th Asia-Pacific Conference on Communications (APCC)*, Short Paper, pp.1--2, Nov. 2025. 
+<br><br>
+
 * Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
 <br><br>
 
@@ -103,6 +106,9 @@ share: false
 <br><br>
 
 * A. Fujimoto, M. Senso, and H. Tode, ''A Combined Method of Overhearing-Based Multicast and BitTorrent with Cooperative Group for Local Content Distribution within Wireless LAN,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
+
+#### <u>Keynote Speech</u>
+* H. Tode, ''Unlocking Peer-to-Peer Potential through Smart Extensions of BitTorrent,'' *The 8th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2025)*, Oct. 2025.
 
 #### <u>国内研究会</u>
 * 平松大夢, 藤本章宏, 戸出英樹, ''大規模なメタバース運用における仮想空間上の近傍ユーザグループ構成法およびグループ内マップデータ共有法,'' 	信学技報, vol. 125, no. 172, NS2025-74, pp. 13--17, 2025年9月.
