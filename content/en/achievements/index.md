@@ -36,6 +36,9 @@ share: false
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
 #### <u>国内研究会</u>
+* 越澤健, 近藤大嗣, 戸出英樹, ''DNSリゾルバのDNSキャッシュポイズニング対抗策普及状況の調査,'' 信学技報, vol. 126, no. 21, NS2026-30, pp. 66-71, 2026年5月.
+<br><br>
+
 * 大西勘太郎, 近藤大嗣, 戸出英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
 <br><br>
 
