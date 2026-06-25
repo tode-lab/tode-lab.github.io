@@ -30,6 +30,9 @@ share: false
 * Y. Seki, Y. Tanigawa, Y. Hirota, and H. Tode, ''Network-oriented metric for core pitch optimization in bidirectional multi-core fiber networks,'' *Journal of Optical Communications and Networking*, vol. 18, no. 5, pp. 454--469, May 2026.
 
 #### <u>International Conference Papers</u>
+* N. Ishikura, D. Kondo, and H. Tode, ''Toward Detecting Stealthy DNS Tunneling Attacks: A Dataset Analysis Perspective,'' in *Proc. Network Traffic Measurement and Analysis Conference (TMA Conference 2026)*, Poster Session, 4 pages, Jun., 2026.
+<br><br>
+
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
 #### <u>国内研究会</u>
