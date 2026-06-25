@@ -35,9 +35,6 @@ share: false
 
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
-#### <u>Keynote Speech</u>
-* H. Tode, ''Unlocking Peer-to-Peer Potential through Smart Extensions of BitTorrent,'' *The 8th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2025)*, Oct. 2025.
-
 #### <u>国内研究会</u>
 * 大西勘太郎, 近藤大嗣, 戸出英樹, ''Graph Neural NetworkによるSSHハニーポット上の攻撃者行動分析,'' 信学技報, vol. 125, no. 385, NS2025-297, pp. 450--455, 2026年3月.
 <br><br>
@@ -112,6 +109,9 @@ share: false
 <br><br>
 
 * A. Fujimoto, M. Senso, and H. Tode, ''A Combined Method of Overhearing-Based Multicast and BitTorrent with Cooperative Group for Local Content Distribution within Wireless LAN,'' in *Proc. 2025 IEEE International Conference on Consumer Electronics (ICCE)*, pp. 1--4, Jan. 2025.
+
+#### <u>Keynote Speech</u>
+* H. Tode, ''Unlocking Peer-to-Peer Potential through Smart Extensions of BitTorrent,'' *The 8th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2025)*, Oct. 2025.
 
 #### <u>国内研究会</u>
 * 西条貴登, 谷川陽祐, 戸出英樹, ''無線LANにおけるTarget Wake Time制御を考慮したTCP BBR帯域推定法の検討,'' 信学技報, vol. 125, no. 301, NS2025-169, pp. 96--101, 2025年12月.
