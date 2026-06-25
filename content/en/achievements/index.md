@@ -75,7 +75,7 @@ share: false
 * H. Yamakata, Y. Tanigawa, and H. Tode, ''Hybrid OFDMA and CSMA/CA-based Transmission Strategy for Providing High Throughput and Low Delay in IEEE 802.11ax Wireless LANs,'' *IEICE Transactions on Communications*, vol. E108-B, no. 12, pp. 1430--1442, Dec. 2025.
 <br><br>
 
-* A. Fujimoto, M. Kurita, and H. Tode, ''A Skip Graph-Based Resource Retrieval with Tunable Range Keys in Time-Variant Environments,'' in *Proc. 2025 30th Asia-Pacific Conference on Communications (APCC)*, Short Paper, pp.1--2, Nov. 2025. 
+* A. Fujimoto, M. Kurita, and H. Tode, ''A Skip Graph-Based Resource Retrieval with Tunable Range Keys in Time-Variant Environments,'' in *Proc. 2025 30th Asia-Pacific Conference on Communications (APCC)*, pp.1--2, Nov. 2025. 
 <br><br>
 
 * Y. Onogawa, Y. Tanigawa, and H. Tode, ''Delay-Bounded OFDMA Transmission in Wireless Sensor Networks with Mixed Delay-Bounded Flows,'' *IEICE Transactions on Communications*, vol. E108-E, no. 9, pp. 1066--1081, Sep. 2025.
