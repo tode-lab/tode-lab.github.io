@@ -61,6 +61,6 @@ sections:
         - Yuki Takeuchi (B3)
         - Ken Nishiyabu (B3)
         - Haruya Fuke (B3)
+        - Masaki Fijimoto (B3)
         - Reita Miyazawa (B3)
-        - Naohiro Ogawa (B3)
 ---
