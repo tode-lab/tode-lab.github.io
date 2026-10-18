@@ -55,6 +55,7 @@ sections:
         - Naoyoshi Sakumoto (B4)
         - Taiga Tanabe (B4)
         - Yuiki Makino (B4)
+        - Shion Mishima (B4)
         - Naohiro Ogawa (B3)
         - Taichi Sugimura (B3)
         - Yuki Takeuchi (B3)
@@ -62,5 +63,4 @@ sections:
         - Haruya Fuke (B3)
         - Reita Miyazawa (B3)
         - Naohiro Ogawa (B3)
-        - Shion Mishima (B4)
 ---
