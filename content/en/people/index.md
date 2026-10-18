@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2026-10-18
 
 type: landing
 
@@ -35,7 +35,7 @@ sections:
         - Koki Sakamoto (M2)
         - Kaito Soeda (M2)
         - Toshiaki Hirai (M2)
-        - Shaoyu Yang (M1)
+        - Shaoyu Yang (M2)
         - Kenzo Ishizawa (M1)
         - Ryo Irei (M1)
         - Jiaqi Wu (M1)
@@ -44,6 +44,7 @@ sections:
         - Yujiro Shimura (M1)
         - Yuki Minami (M1)
         - Tetsuya Yamamoto (M1)
+        - Boutonnet Leo Guillaume Pierre Joachim (M1)
   - block: markdown
     content:
       title: Bachelor Students
@@ -54,5 +55,12 @@ sections:
         - Naoyoshi Sakumoto (B4)
         - Taiga Tanabe (B4)
         - Yuiki Makino (B4)
+        - Naohiro Ogawa (B3)
+        - Taichi Sugimura (B3)
+        - Yuki Takeuchi (B3)
+        - Ken Nishiyabu (B3)
+        - Haruya Fuke (B3)
+        - Reita Miyazawa (B3)
+        - Naohiro Ogawa (B3)
         - Shion Mishima (B4)
 ---
