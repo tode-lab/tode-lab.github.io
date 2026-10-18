@@ -36,6 +36,28 @@ share: false
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
 #### <u>国内研究会</u>
+<!-- 
+* 越澤健, 近藤大嗣, 戸出英樹, 2026年12月NS研.
+<br><br>
+
+* 関勇弥, Nicolas Schnepf, 赤川宙, 近藤大嗣, 戸出英樹, 2026年12月NS研.
+<br><br>
+
+* 南雄暉, 谷川陽祐, 戸出英樹, ''無線LANにおけるフロー間の伝送スループット公平性を向上させるフレーム伝送制御法,'' 2026年11月NS研.
+<br><br>
+
+* 楊紹瑜, 谷川陽祐, 戸出英樹, ''K3sエッジクラスタにおけるcgroup v2を用いたソフトリアルタイムUDP処理のCPUコア隔離方式の実装と評価,'' 2026年11月NS研.
+<br><br>
+
+* 赤井智哉, 谷川陽祐, 廣田悠介, 戸出英樹, ''Erasure-Codingと復元応答を用いたデータ転送における適応的レート・フィードバック制御手法,'' 2026年11月NS研.
+<br><br>
+
+* 平井利晃, 谷川陽祐, 廣田悠介, 戸出英樹, ''小容量バッファ網におけるパケットペーシングとRTT固定化を統合したTCP転送制御手法,'' 2026年11月NS研.
+<br><br>
+
+* 山本徹哉, 谷川陽祐, 戸出英樹, ''IEEE 802.11ah無線ネットワークにおける電波送信規制を考慮したTCPに基づくパケット伝送法,'' 2026年11月ICM研.
+-->
+
 * 越澤健, 近藤大嗣, 戸出英樹, ''DNSリゾルバのDNSキャッシュポイズニング対抗策普及状況の調査,'' 信学技報, vol. 126, no. 21, NS2026-30, pp. 66--71, 2026年5月.
 <br><br>
 
