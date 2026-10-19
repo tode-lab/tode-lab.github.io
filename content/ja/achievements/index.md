@@ -35,6 +35,11 @@ share: false
 
 * K. Soeda, Y. Tanigawa, and H. Tode, ''Information Acquisition from a Specific Number of Nodes with Designated Attributes in DTN Environments,'' in *Proc. 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1--2, Jan. 2026.
 
+<!--
+#### <u>International Conference Presentations</u>
+* H. Tode, K. Shibata, Y. Tanigawa, ''Performance Comparison of RNN, LSTM, and Reservoir Computing for Adaptive Spatial Core Assignment in SDM-OPS Networks,'' *2026 The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026)*, S065-A, Osaka, Oct. 2026.
+-->
+
 #### <u>国内研究会</u>
 <!-- 
 * 越澤健, 近藤大嗣, 戸出英樹, 2026年12月NS研.
