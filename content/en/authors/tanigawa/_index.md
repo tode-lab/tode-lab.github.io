@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 #organizations:
@@ -72,4 +72,4 @@ user_groups:
   - Professors
 ---
 
-Yosuke Tanigawa received his BE, ME, and PhD degrees in Information Networking from Osaka University in 2005, 2007, and 2009, respectively. He joined the Department of Computer Science and Intelligent Systems, Graduate School of Engineering, Osaka Prefecture University, as an assistant professor in April 2009. He was promoted to associate professor in the same department In April 2016. In April 2022, he transitioned to the Department of Core Informatics, Graduate School of Informatics, Osaka Metropolitan University, where he currently holds the position of associate professor. His research interests include channel access control, QoS-aware network control, and power-saving control for wireless networks. Dr. Tanigawa is a member of the IEEE and senior member of IEICE.
+Yosuke Tanigawa received his BE, ME, and PhD degrees in Information Networking from Osaka University in 2005, 2007, and 2009, respectively. He joined the Department of Computer Science and Intelligent Systems, Graduate School of Engineering, Osaka Prefecture University, as an assistant professor in April 2009. He was promoted to an associate professor in the same department in April 2016. In April 2022, he transitioned to the Department of Core Informatics, Graduate School of Informatics, Osaka Metropolitan University. From Oct. 1, 2026, he was promoted to a professor in the same department, a position he has held since then. His research interests include channel access control, QoS-aware network control, and power-saving control for wireless networks. Dr. Tanigawa is a member of the IEEE and a senior member of IEICE. 
